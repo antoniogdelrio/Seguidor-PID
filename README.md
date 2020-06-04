@@ -1,4 +1,4 @@
-# Seguidor-PID-EV3
+# :robot: Seguidor-PID-EV3 #
 Seguidor de Linha com controlador PID para robôs da plataforma LEGO Mindstorms EV3.
 
 Componentes fundamentais:
